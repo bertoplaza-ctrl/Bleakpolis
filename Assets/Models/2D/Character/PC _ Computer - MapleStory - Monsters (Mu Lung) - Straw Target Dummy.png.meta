@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 2cf8a704c6779f440a9b862e414b2ce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4454298581197328059
+    second: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541f4305a072f22c0800000000000000
+      internalID: -4454298581197328059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 319
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ca4945729df259af2fce1357cc18a
+      internalID: -1472222973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 319
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e1f47bebc5f99038a884e66cef0202
+      internalID: -1781171793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 319
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b905fecf059dc16b9dbe63327ca111
+      internalID: -1557898203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 319
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f9fa7ca7117cadbf4d34c6cba9d30
+      internalID: -905643888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_5
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 319
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e026b31448c29091b6acb99abfe27
+      internalID: 424553262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 218
+        width: 78
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1455633c8e97e0318a66baa965c3f959
+      internalID: 55030499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 218
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe274e6ab03d482b1ae8549985f992
+      internalID: 428162952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 218
+        width: 79
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47771ea55b9c37648b172c67964ba45a
+      internalID: -1641616888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 218
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d2144ff3c67ac22a79d89460b8499b
+      internalID: -526287692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 218
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26383444149d293569467867b7d165b6
+      internalID: 938403758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 218
+        width: 78
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd6533a145bc6f189312bbbd657406
+      internalID: -751443636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 81
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80b45efdbfc894e9a27dbf1fa4c71a
+      internalID: -960065088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 81
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9fa8cdf2b3f153f967078a51571e39
+      internalID: -1801215032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 78
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532be281c543424d9806fcff87bee176
+      internalID: -2075703048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 78
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24cca05611fbff3bbe6fb7eda832be
+      internalID: 1234742456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 78
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca29382c1b1a4869b74c84a6d764fb
+      internalID: -2626918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_24
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 8
+        width: 78
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a355a9a5f8c30028ad127b41c49357c
+      internalID: 1994591214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 78
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f8e442cbd29a75a414d1a2496a7af
+      internalID: 4901667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d75adc8586acac3179b1e534576f8ac3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_0: -4454298581197328059
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_1: -1472222973
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_10: 938403758
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_11: -751443636
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_12: -960065088
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_13: -2001864444
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_14: 850097515
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_15: 1657665934
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_16: -1908018238
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_17: 1622882799
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_18: -896114929
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_19: 2060243652
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_2: -1781171793
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_20: -1801215032
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_21: -2075703048
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_22: 1234742456
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_23: -2626918
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_24: 1994591214
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_25: 4901667
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_3: -1557898203
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_4: -905643888
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_5: 424553262
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_6: 55030499
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_7: 428162952
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_8: -1641616888
+      PC _ Computer - MapleStory - Monsters (Mu Lung) - Straw Target Dummy_9: -526287692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
